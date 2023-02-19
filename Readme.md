@@ -1,5 +1,5 @@
 ## About
-This is my personal site that is currently available at [zelvics.com](https://zelvics.com). Made with HTML & CSS.
+This is my old personal site that is currently available at [zelvics.com/old_2](https://zelvics.com/old_2). Made with HTML & CSS.
 
 ## Previews
 <img src="https://cdn.discordapp.com/attachments/1045277339996663859/1069260757058981979/image.png" alt="preview 1"> <br>
